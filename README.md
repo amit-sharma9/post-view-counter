@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-You can see the plugin in action on the live site:  
+You can see the plugin in action on the live site. Click on any post to view its view count.
 [https://amit-sharma.lovestoblog.com/](https://amit-sharma.lovestoblog.com/)
 
 ---
